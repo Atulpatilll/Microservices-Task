@@ -28,3 +28,13 @@ The system consists of four containerized microservices communicating over an in
    ```bash
    git clone [https://github.com/Atulpatilll/Microservices-Task.git](https://github.com/Atulpatilll/Microservices-Task.git)
    cd Microservices-Task
+
+---
+
+## 📷 Running Service & Testing Verification
+
+### 1. Docker Compose Services Orchestration
+![Docker Compose PS](docker-compose-running.png)
+
+### 2. API Gateway & Microservices Endpoints Verification
+![Endpoints Verification](endpoints-test.png)
