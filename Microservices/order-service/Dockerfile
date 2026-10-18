@@ -15,4 +15,4 @@ COPY . .
 EXPOSE 3002
 
 # Start command
-CMD ["npm", "start"]
+CMD ["node", "app.js"]
